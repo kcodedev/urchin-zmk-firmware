@@ -2,24 +2,8 @@
  * This file includes custom keycodes for the italian input language setting.
  * If you only type in english, you can delete this file and it's import.
  * If you wish to replace this file with your preferred language, use
- * the qmk version as reference:
- * https://github.com/qmk/qmk_firmware/tree/master/quantum/keymap_extras
 */
 
-
-/*
- * ┌───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───────┐
- * │ \ │   │   │   │   │   │   │   │   │   │   │ ' │ ì │       │
- * ├───┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─────┤
- * │     │   │   │   │   │   │   │   │   │   │   │ è │ + │     │
- * ├─────┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┐    │
- * │      │   │   │   │   │   │   │   │   │   │ ò │ à │ ù │    │
- * ├────┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴───┴────┤
- * │    │ < │   │   │   │   │   │   │   │ , │ . │ - │          │
- * ├────┼───┴┬──┴─┬─┴───┴───┴───┴───┴───┴──┬┴───┼───┴┬────┬────┤
- * │    │    │    │                        │    │    │    │    │
- * └────┴────┴────┴────────────────────────┴────┴────┴────┴────┘
- */
 // Row 1
 #define IT_BSLH GRAVE            // backslash
 #define IT_SQUOT MINUS           // '
