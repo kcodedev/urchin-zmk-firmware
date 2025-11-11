@@ -157,7 +157,7 @@
 				&kp CARET 	&kp UNDERSCORE &kp IT_PND &kp IT_EUR  &kp HASH    		&none 		&none 		  &none 		&none 		&none
 			// ├───────────┼───────────┼───────────┼────────────┼────────────┤ ├───────────┼─────────────┼─────────────┼────────────┼────────────┤
 			//	&kp BACKTICK &kp TILDA	&kp BACKSLASH &kp PIPE 	 &kp AMPERSAND      &none 		&none 		  &none 		&none 		&none
-				&none 			&none 	 	&none 		&none 	  	&none			&none 		&none 		  &none 		&none 		&none
+				&kp BACKTICK	&none 	 	&none 		&none 	  	&none			&none 		&none 		  &none 		&none 		&none
 			// ├───────────┼───────────┼───────────┼────────────┼────────────┤ ├───────────┼─────────────┼─────────────┼────────────┼────────────┤
 				&none 			&none 	 	&none 		&none 	  	&none			&none 		&none 		  &none 		&none 		&none
 			// ╰───────────┴───────────┴───────────┼────────────┼────────────┤ ├───────────┼─────────────┼─────────────┴────────────┴────────────╯
