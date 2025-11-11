@@ -108,9 +108,9 @@
 			// ╭───────────┬───────────┬───────────┬────────────┬────────────╮ ╭───────────┬─────────────┬─────────────┬────────────┬────────────╮
 				 &kp N1 	  &kp N2 	 &kp N3 		&kp N4 		&kp N5		  &kp N6 		&kp N7 		&kp N8 			&kp N9 		&kp N0
 			// ├───────────┼───────────┼───────────┼────────────┼────────────┤ ├───────────┼─────────────┼─────────────┼────────────┼────────────┤
-			   &kp LESS_THAN &kp DOLLAR &kp IT_LPAR  &kp IT_LBRC &kp IT_LBKT  	&kp EQUAL   &kp QUESTION  	&kp SQT  	&kp IT_MINUS &kp IT_AST
+			   &kp LESS_THAN &kp DOLLAR &kp IT_LPAR  &kp IT_LBRC &kp IT_LBKT  	&kp EQUAL   &kp QUESTION  	&kp SQT  	  &kp MINUS   &kp ASTRK
 			// ├───────────┼───────────┼───────────┼────────────┼────────────┤ ├───────────┼─────────────┼─────────────┼────────────┼────────────┤
-				&kp IT_GREAT &kp IT_PERC &kp IT_RPAR &kp IT_RBRC &kp IT_RBKT 	&kp IT_AT 	&kp IT_EXCL 	&kp DQT 	&kp IT_PLUS &kp IT_FSLH
+				&kp IT_GREAT &kp IT_PERC &kp IT_RPAR &kp IT_RBRC &kp IT_RBKT 	&kp IAT 	   &kp EXCL 	&kp DQT 	  &kp PLUS    &kp FSLH
 			// ╰───────────┴───────────┴───────────┼────────────┼────────────┤ ├───────────┼─────────────┼─────────────┴────────────┴────────────╯
 														&mo FNC  &mo SYM2       	&trans 		&trans
 			//                                     ╰────────────┴────────────╯ ╰───────────┴─────────────╯
