@@ -110,7 +110,7 @@
 			// ├───────────┼───────────┼───────────┼────────────┼────────────┤ ├───────────┼─────────────┼─────────────┼────────────┼────────────┤
 			   &kp LESS_THAN &kp DOLLAR &kp IT_LPAR  &kp IT_LBRC &kp IT_LBKT  	&kp EQUAL   &kp QUESTION  	&kp SQT  	  &kp MINUS   &kp ASTRK
 			// ├───────────┼───────────┼───────────┼────────────┼────────────┤ ├───────────┼─────────────┼─────────────┼────────────┼────────────┤
-				&kp IT_GREAT &kp IT_PERC &kp IT_RPAR &kp IT_RBRC &kp IT_RBKT 	&kp IAT 	   &kp EXCL 	&kp DQT 	  &kp PLUS    &kp FSLH
+				&kp IT_GREAT &kp IT_PERC &kp IT_RPAR &kp IT_RBRC &kp IT_RBKT 	&kp AT 	   	&kp EXCL 		&kp DQT 	  &kp PLUS    &kp FSLH
 			// ╰───────────┴───────────┴───────────┼────────────┼────────────┤ ├───────────┼─────────────┼─────────────┴────────────┴────────────╯
 														&mo FNC  &mo SYM2       	&trans 		&trans
 			//                                     ╰────────────┴────────────╯ ╰───────────┴─────────────╯
