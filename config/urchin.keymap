@@ -153,9 +153,9 @@
 			label = "Sym.2";
 			bindings = <
 			// ╭───────────┬───────────┬───────────┬────────────┬────────────╮ ╭───────────┬─────────────┬─────────────┬────────────┬────────────╮
-				&kp LG(N1) 	&kp UNDER     &none  		&none  	  &kp HASH    		&none     &kp LG(N7)    &kp LG(N8) 	 &kp LG(N9)     &none
+				&kp LG(N1) 	&kp LG(N2)   &kp LG(N3)  &kp LG(N4)  &kp LG(N5)    		&none     &kp LG(N7)    &kp LG(N8) 	 &kp LG(N9)     &none
 			// ├───────────┼───────────┼───────────┼────────────┼────────────┤ ├───────────┼─────────────┼─────────────┼────────────┼────────────┤
-				&kp GRAVE 	&kp TILDE	  &kp BSLH 	   &kp HASH  &kp AMPERSAND   	&none     &kp LG(N4)    &kp LG(N5) 	 &kp LG(N6)     &none
+				&kp GRAVE 	&kp TILDE	  &kp BSLH 	  &kp HASH   &kp AMPERSAND   	&none     &kp LG(N4)    &kp LG(N5) 	 &kp LG(N6)     &none
 			// ├───────────┼───────────┼───────────┼────────────┼────────────┤ ├───────────┼─────────────┼─────────────┼────────────┼────────────┤
 				&kp CARET 	&kp UNDER 	  &kp PIPE	&kp AMPERSAND 	&none			&none 	  &kp LG(N1)    &kp LG(N2) 	 &kp LG(N3) 	&none
 			// ╰───────────┴───────────┴───────────┼────────────┼────────────┤ ├───────────┼─────────────┼─────────────┴────────────┴────────────╯
